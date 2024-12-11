@@ -61,5 +61,7 @@ Arquivo de entrada no formato especificado.
 calculo_area.c: Código-fonte do programa.
 TRIANGULOABC.txt: Arquivo de entrada contendo os vértices do polígono.
 
+## Autor
+[Débora Rezende Valeriano]
 
 
