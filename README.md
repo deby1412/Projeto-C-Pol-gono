@@ -57,7 +57,7 @@ Arquivo de entrada no formato especificado.
 
 ---
 
-Estrutura do Projeto
+## Estrutura do Projeto
 calculo_area.c: Código-fonte do programa.
 TRIANGULOABC.txt: Arquivo de entrada contendo os vértices do polígono.
 
